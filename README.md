@@ -6,7 +6,7 @@ This project demonstrates a real-time AI-based surveillance system capable of:
 - Face mask detection
 - Human emotion recognition
 
-The system uses **Machine Learning**, **Image Processing**, and **Neural Networks**, developed using Python and OpenCV. A supporting Android app named **"Artific Sight Intelligence Application"** is also part of the system.
+The system uses **Machine Learning**, **Image Processing**, and **Neural Networks**, developed using Python and OpenCV.
 
 ---
 
